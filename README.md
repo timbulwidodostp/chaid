@@ -1,6 +1,8 @@
 # chaid
 Decission Tree With Chi-square automated interaction detection (CHAID) Use chaid With STATA 18
 
+https://www.youtube.com/watch?v=Lzsgs16wv7Q
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
